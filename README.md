@@ -1,0 +1,2 @@
+# Python-GlobalDate
+fuck python
